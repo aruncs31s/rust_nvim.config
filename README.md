@@ -65,3 +65,7 @@ dap.configurations.rust = {
         stopOnEntry = false,
     },
 ```
+
+## Credit/Reference
+[Article](https://romangeber.com/blog/tech/nvim_rust_debugger)
+[Youtube](https://www.youtube.com/watch?v=gihHLsClHF0)
