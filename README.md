@@ -68,4 +68,7 @@ dap.configurations.rust = {
 
 ## Credit/Reference
 [Article](https://romangeber.com/blog/tech/nvim_rust_debugger)
+
 [Youtube](https://www.youtube.com/watch?v=gihHLsClHF0)
+
+[Youtube](https://www.youtube.com/watch?v=lEMZnrC-ST4)
